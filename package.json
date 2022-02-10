@@ -37,7 +37,7 @@
   "devDependencies": {
     "classnames": "^2.2.6",
     "immutable": "^4.0.0-rc.12",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "gh-pages": "^1.0.0",
     "react-scripts": "1.0.13"
   }
